@@ -33,3 +33,11 @@
 - Exportar funções para mudar o contexto
 
 - Resolver o erro de falta de Provider ‘Object(...)(...)’ as it is undefined.
+
+# Capítulo 04:
+
+- Utilizar hooks React para escutar mudanças no contexto e deixá-lo dinâmico;
+
+- Reaproveitamento de funções dentro do hook;
+
+- As vantagens de manter a responsabilidade de mudar o contexto centralizado fora dos componentes.
