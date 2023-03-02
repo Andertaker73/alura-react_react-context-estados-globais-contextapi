@@ -23,3 +23,13 @@
 - Que não precisamos colocar o Context.Provider no root da aplicação, apenas onde usaremos;
 
 - A criar um componente já com o Provider dentro dele.
+
+# Capítulo 03:
+
+- Criar hooks customizados;
+
+- Usar hooks customizados para externalizar a responsabilidade de mudar o contexto;
+
+- Exportar funções para mudar o contexto
+
+- Resolver o erro de falta de Provider ‘Object(...)(...)’ as it is undefined.
