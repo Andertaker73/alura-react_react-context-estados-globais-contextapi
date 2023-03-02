@@ -9,3 +9,17 @@
 - Como a utilização errada de props pode ocasionar problemas de performance.
 
 - A necessidade de utilizar o ContextAPI na nossa aplicação.
+
+# Capítulo 02:
+
+- A utilizar o ContextAPI para criar contextos fora dos nossos componentes;
+
+- A consumir o nosso contexto com Context.Consumer e com useContext;
+
+- Para que serve o Context.contextType e o Context.displayName;
+
+- A utilizar a extensão React Context Devtool;
+
+- Que não precisamos colocar o Context.Provider no root da aplicação, apenas onde usaremos;
+
+- A criar um componente já com o Provider dentro dele.
