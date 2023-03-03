@@ -41,3 +41,9 @@
 - Reaproveitamento de funções dentro do hook;
 
 - As vantagens de manter a responsabilidade de mudar o contexto centralizado fora dos componentes.
+
+# Capítulo 05:
+
+- Criação e uso de mais de um contexto no mesmo componente;
+
+- Utilização de valores estáticos para popular o contexto.
