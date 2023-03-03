@@ -47,3 +47,13 @@
 - Criação e uso de mais de um contexto no mesmo componente;
 
 - Utilização de valores estáticos para popular o contexto.
+
+# Capítulo 06:
+
+- Comunicação entre contextos;
+
+- Como utilizar o useMemo;
+
+- Parêmetros prédefinidos;
+
+- Que é possível um contexto mudar outro contexto.
